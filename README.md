@@ -1,2 +1,2 @@
-# rugby-staging
-The stage for Rugby experiments 🏈
+# Rugby Staging 🏈
+The stage for Rugby experiments
